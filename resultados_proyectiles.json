@@ -1,0 +1,246 @@
+[
+  {
+    "InitialVelocity": 20.0,
+    "LaunchAngle": 30.0,
+    "resultados": [
+      {
+        "tiempo": 0.0,
+        "altura": 0.0,
+        "distancia_horizontal": 0.0
+      },
+      {
+        "tiempo": 0.20408163265306117,
+        "altura": 1.8367346938775504,
+        "distancia_horizontal": 3.534797566467096
+      },
+      {
+        "tiempo": 0.40816326530612235,
+        "altura": 3.2653061224489783,
+        "distancia_horizontal": 7.069595132934192
+      },
+      {
+        "tiempo": 0.6122448979591835,
+        "altura": 4.285714285714284,
+        "distancia_horizontal": 10.604392699401288
+      },
+      {
+        "tiempo": 0.8163265306122447,
+        "altura": 4.897959183673468,
+        "distancia_horizontal": 14.139190265868384
+      },
+      {
+        "tiempo": 1.020408163265306,
+        "altura": 5.102040816326529,
+        "distancia_horizontal": 17.67398783233548
+      },
+      {
+        "tiempo": 1.224489795918367,
+        "altura": 4.897959183673468,
+        "distancia_horizontal": 21.208785398802576
+      },
+      {
+        "tiempo": 1.4285714285714282,
+        "altura": 4.285714285714285,
+        "distancia_horizontal": 24.74358296526967
+      },
+      {
+        "tiempo": 1.6326530612244894,
+        "altura": 3.2653061224489797,
+        "distancia_horizontal": 28.27838053173677
+      },
+      {
+        "tiempo": 1.8367346938775506,
+        "altura": 1.836734693877549,
+        "distancia_horizontal": 31.813178098203863
+      },
+      {
+        "tiempo": 2.040816326530612,
+        "altura": 0.0,
+        "distancia_horizontal": 35.34797566467096
+      }
+    ]
+  },
+  {
+    "InitialVelocity": 15.0,
+    "LaunchAngle": 45.0,
+    "resultados": [
+      {
+        "tiempo": 0.0,
+        "altura": 0.0,
+        "distancia_horizontal": 0.0
+      },
+      {
+        "tiempo": 0.2164612595469023,
+        "altura": 2.066326530612245,
+        "distancia_horizontal": 2.2959183673469385
+      },
+      {
+        "tiempo": 0.4329225190938046,
+        "altura": 3.6734693877551017,
+        "distancia_horizontal": 4.591836734693877
+      },
+      {
+        "tiempo": 0.6493837786407068,
+        "altura": 4.821428571428571,
+        "distancia_horizontal": 6.887755102040816
+      },
+      {
+        "tiempo": 0.8658450381876092,
+        "altura": 5.5102040816326525,
+        "distancia_horizontal": 9.183673469387754
+      },
+      {
+        "tiempo": 1.0823062977345115,
+        "altura": 5.739795918367346,
+        "distancia_horizontal": 11.479591836734693
+      },
+      {
+        "tiempo": 1.2987675572814137,
+        "altura": 5.510204081632654,
+        "distancia_horizontal": 13.775510204081632
+      },
+      {
+        "tiempo": 1.5152288168283161,
+        "altura": 4.821428571428573,
+        "distancia_horizontal": 16.071428571428573
+      },
+      {
+        "tiempo": 1.7316900763752183,
+        "altura": 3.6734693877551017,
+        "distancia_horizontal": 18.36734693877551
+      },
+      {
+        "tiempo": 1.9481513359221205,
+        "altura": 2.066326530612244,
+        "distancia_horizontal": 20.663265306122447
+      },
+      {
+        "tiempo": 2.164612595469023,
+        "altura": -3.552713678800501e-15,
+        "distancia_horizontal": 22.959183673469386
+      }
+    ]
+  },
+  {
+    "InitialVelocity": 25.0,
+    "LaunchAngle": 60.0,
+    "resultados": [
+      {
+        "tiempo": 0.0,
+        "altura": 0.0,
+        "distancia_horizontal": 0.0
+      },
+      {
+        "tiempo": 0.441849695808387,
+        "altura": 8.60969387755102,
+        "distancia_horizontal": 5.523121197604839
+      },
+      {
+        "tiempo": 0.883699391616774,
+        "altura": 15.30612244897959,
+        "distancia_horizontal": 11.046242395209678
+      },
+      {
+        "tiempo": 1.325549087425161,
+        "altura": 20.089285714285708,
+        "distancia_horizontal": 16.56936359281452
+      },
+      {
+        "tiempo": 1.767398783233548,
+        "altura": 22.959183673469386,
+        "distancia_horizontal": 22.092484790419356
+      },
+      {
+        "tiempo": 2.209248479041935,
+        "altura": 23.91581632653061,
+        "distancia_horizontal": 27.615605988024196
+      },
+      {
+        "tiempo": 2.651098174850322,
+        "altura": 22.959183673469383,
+        "distancia_horizontal": 33.13872718562904
+      },
+      {
+        "tiempo": 3.0929478706587092,
+        "altura": 20.089285714285708,
+        "distancia_horizontal": 38.661848383233874
+      },
+      {
+        "tiempo": 3.534797566467096,
+        "altura": 15.306122448979593,
+        "distancia_horizontal": 44.18496958083871
+      },
+      {
+        "tiempo": 3.976647262275483,
+        "altura": 8.609693877551024,
+        "distancia_horizontal": 49.70809077844355
+      },
+      {
+        "tiempo": 4.41849695808387,
+        "altura": 0.0,
+        "distancia_horizontal": 55.23121197604839
+      }
+    ]
+  },
+  {
+    "InitialVelocity": 18.0,
+    "LaunchAngle": 40.0,
+    "resultados": [
+      {
+        "tiempo": 0.0,
+        "altura": 0.0,
+        "distancia_horizontal": 0.0
+      },
+      {
+        "tiempo": 0.2361260607011777,
+        "altura": 2.458818279513501,
+        "distancia_horizontal": 3.25589502016281
+      },
+      {
+        "tiempo": 0.4722521214023554,
+        "altura": 4.37123249691289,
+        "distancia_horizontal": 6.51179004032562
+      },
+      {
+        "tiempo": 0.7083781821035331,
+        "altura": 5.737242652198168,
+        "distancia_horizontal": 9.76768506048843
+      },
+      {
+        "tiempo": 0.9445042428047108,
+        "altura": 6.5568487453693365,
+        "distancia_horizontal": 13.02358008065124
+      },
+      {
+        "tiempo": 1.1806303035058885,
+        "altura": 6.830050776426392,
+        "distancia_horizontal": 16.27947510081405
+      },
+      {
+        "tiempo": 1.4167563642070662,
+        "altura": 6.556848745369335,
+        "distancia_horizontal": 19.53537012097686
+      },
+      {
+        "tiempo": 1.6528824249082439,
+        "altura": 5.737242652198169,
+        "distancia_horizontal": 22.79126514113967
+      },
+      {
+        "tiempo": 1.8890084856094216,
+        "altura": 4.371232496912892,
+        "distancia_horizontal": 26.04716016130248
+      },
+      {
+        "tiempo": 2.1251345463105995,
+        "altura": 2.4588182795134976,
+        "distancia_horizontal": 29.303055181465293
+      },
+      {
+        "tiempo": 2.361260607011777,
+        "altura": 0.0,
+        "distancia_horizontal": 32.5589502016281
+      }
+    ]
+  }
+]
